@@ -1,0 +1,275 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 300%;
+  margin-top: 50px;
+  margin-bottom: 0;
+  font-family: 'Merriweather', serif;
+  top: 200px;
+}
+
+ul {
+  text-align: center;
+  list-style: inside;
+}
+
+.skills {
+  color: #C70A80;
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 25px;
+  margin-top: 30px;
+}
+
+.skill-row {
+  color: #371B58;
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 25px;
+  margin-top: 30px;
+}
+
+.photo1 {
+  margin-top: 30px;
+  height: 20%;
+  width: 15%;
+}
+
+.one {
+  padding-top: 50px;
+  color: #371B58;
+}
+
+.content {
+  color: darkblue;
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 25px;
+  margin-top: 30px;
+}
+
+.line {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: black;
+  border-width: 5px;
+  width: 55%;
+}
+
+.line1 {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: black;
+  border-width: 5px;
+  width: 35%;
+}
+
+.danta {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: black;
+  border-width: 5px;
+  width: 45%;
+}
+
+h2 {
+  margin: 0 auto;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 40px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-container {
+  background-color: #CDF0EA;
+  padding-top: 100px;
+}
+
+.two {
+  padding-top: 0;
+  background-color: pink;
+}
+.row{
+  border: 0;
+  margin: 0;
+}
+
+.middle-container {
+  background-color: #E9D5CA;
+}
+
+.bottom-container {
+  background-color: #3EC1D3;
+  font-size: 20px;
+  text-align: center;
+  padding: 20px;
+
+}
+.ph{
+  position: relative;
+  right: 100px;
+}
+.fa {
+  padding: 20px;
+  font-size: 100px;
+  width: 50px;
+  text-align: center;
+  text-decoration:underline;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+.gm{
+  position: relative;
+  left: 100px;
+}
+.tab1{
+  position: relative;
+  left: 50px;
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+
+}
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+pre{
+  display: block;
+    font-family: monospace;
+    white-space: pre;
+    margin: 1em 0px;
+}
+
+
+.pro {
+  text-decoration: underline;
+}
+
+.web {
+  text-decoration: underline;
+}
+
+.photo {
+  margin-top: 30px;
+  height: 20%;
+  width: 15%;
+}
+
+.pic {
+  margin-top: 30px;
+  height: 20%;
+  width: 15%;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.picture {
+  width: 13%;
+  height: 30%;
+  position: absolute;
+  left: 535px;
+  top: 20px;
+}
+
+.top-badal {
+  position: absolute;
+  left: 200px;
+  top: 100px;
+}
+
+.bottom-badal {
+  position: absolute;
+  right: 200px;
+  bottom: 140px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+  bottom: 140px;
+}
+.contact{
+  text-align: left;
+height: 700px;
+margin: auto;
+padding-left: 50px;
+  background-color: #C6DCE4;
+}
+.line2{
+  margin: 0;
+
+}
+p{
+  margin: 0;
+}
+form{
+  margin-top: 30px;
+}
+.flower{
+  width: 20%;
+  height: 25%;
+  position: absolute;
+  left: 100px;
+  bottom:  250px;
+}
+.f2{
+  width: 20%;
+  height: 25%;
+  position: absolute;
+  right: 100px;
+  bottom: 250px;
+}
